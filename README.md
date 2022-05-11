@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Celenarockperficient
+- 👋 Hi, I’m Celena
 - 👀 I’m interested in frontend dev work
 - 🌱 I’m currently learning React
 - 📫 How to reach me Celena.Rock@perficient.com
